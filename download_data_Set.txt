@@ -1,0 +1,7 @@
+Link to dataset Pygender:
+https://www.dropbox.com/s/87v8jxxu9tvbkns/development_set.zip?dl=0
+
+
+Note:
+This is not my own criation, this dataset is suggested by this blog. - https://appliedmachinelearning.blog/2017/11/14/spoken-speaker-identification-based-on-gaussian-mixture-models-python-implementation/
+
